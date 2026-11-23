@@ -13,4 +13,4 @@ Hi! I'm a B.Tech Information Technology graduate passionate about software devel
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SayandipSaha12&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 👨🏻‍💻 Dev Quaotes:
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
