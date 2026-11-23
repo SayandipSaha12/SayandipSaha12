@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi! I'm a B.Tech Information Technology graduate passionate about software development, full-stack engineering, and machine learning. I enjoy building practical applications and solving problems using Java, Python, Spring Boot, and TensorFlow. I'm continuously learning and exploring new technologies to develop efficient, scalable, and impactful solutions.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xenoz1604) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xenoz_lol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayandip-saha-523ab430b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SayandipSaha_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayandipsaha686@gmail.com) 
@@ -12,10 +13,5 @@ Hi! I'm a B.Tech Information Technology graduate passionate about software devel
 ![](https://streak-stats.demolab.com/?user=SayandipSaha12&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SayandipSaha12&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SayandipSaha12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
